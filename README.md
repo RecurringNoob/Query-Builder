@@ -14,5 +14,5 @@ A TypeScript-powered, fully dynamic SQL query builder that allows you to build s
 
 ```bash
 git clone 
-cd Query-Builder
+cd Query-Builder https://github.com/RecurringNoob/Query-Builder
 npm install
